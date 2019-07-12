@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7485a6b-3a89-4789-a872-8469fea5c11e" name="Default" comment="" />
+    <list default="true" id="e7485a6b-3a89-4789-a872-8469fea5c11e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/three.js/Charactor.html" beforeDir="false" afterPath="$PROJECT_DIR$/three.js/Charactor.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +19,8 @@
       <file leaf-file-name="Charactor.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/three.js/Charactor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4021">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="313">
+              <caret line="121" column="6" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
@@ -63,7 +65,9 @@
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -79,13 +83,46 @@
             <path>
               <item name="WebAR" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAR" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
+              <item name="three.js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAR" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAR" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-              <item name="OBJ" type="462c0819:PsiDirectoryNode" />
+              <item name="three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAR" type="462c0819:PsiDirectoryNode" />
+              <item name="three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="marker-training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAR" type="462c0819:PsiDirectoryNode" />
+              <item name="three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="marker-training" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAR" type="462c0819:PsiDirectoryNode" />
+              <item name="three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="marker-training" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAR" type="462c0819:PsiDirectoryNode" />
+              <item name="three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="marker-training" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,6 +136,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/three.js/examples/marker-training/examples/pattern-files" />
+      <recent name="$PROJECT_DIR$/three.js/examples/marker-training/examples/pattern-images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,12 +167,12 @@
       <updated>1562236021199</updated>
       <workItem from="1562236023405" duration="430000" />
       <workItem from="1562805953350" duration="144000" />
-      <workItem from="1562831296931" duration="7131000" />
+      <workItem from="1562831296931" duration="8936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7705000" />
+    <option name="totallyTimeSpent" value="9510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/three.js/Charactor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4021">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        <state relative-caret-position="313">
+          <caret line="121" column="6" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />

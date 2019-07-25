@@ -88,7 +88,7 @@
                 renderer = new THREE.WebGLRenderer({alpha:true});
                 renderer.setSize(window.innerWidth,window.innerHeight);
                 renderer.setClearColor(new THREE.Color(0xffffff),1.0);
-                renderer.domElement.style.position = "absolute";
+                // renderer.domElement.style.position = "absolute";
                 document.body.appendChild(renderer.domElement);
 
                 light1 = new THREE.DirectionalLight(0xffffff,2);
